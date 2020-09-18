@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424980873506",
+    "firebase_url": "https://provazils.firebaseio.com",
+    "project_id": "provazils",
+    "storage_bucket": "provazils.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424980873506:android:32b81808ef3b87321d257b",
+        "android_client_info": {
+          "package_name": "com.example.prova_zils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424980873506-380epot4ja9oaj1tr8ala2c38cp9br1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFEWqhNZfz9xIC6kROXHoyE2lkkmTH_r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424980873506-380epot4ja9oaj1tr8ala2c38cp9br1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
